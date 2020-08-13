@@ -1,2 +1,2 @@
-# saku_fude_test
-長野県佐久市筆ポリゴン　テスト用サイト
+# komoro_fude_test
+長野県小諸市筆ポリゴン　テスト用サイト
